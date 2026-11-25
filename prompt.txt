@@ -1,0 +1,8 @@
+Build a make.fun entry for "The Tired Dark Lord: A 100-Word Villain Monologue"
+(slug u-kevin-the-tired-dark-lord-a-100-word-villain-58b4f3cb): write 8-10
+original candidate monologues in CANDIDATES.md, pick the strongest against
+the judge brief (a specific fantasy villain who is secretly just very tired,
+tiredness felt in rhythm/pauses/deflections, never announced; concrete detail;
+speakable; a turn in the last line; about 100 words), and ship a stdlib-only
+deterministic main.py that writes the chosen monologue to entry.txt and
+validates it against the 1-600 character gate.
